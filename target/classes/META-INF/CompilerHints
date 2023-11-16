@@ -1,0 +1,12 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/maoqifan/collections/HashMapTest.entrySetForEach
+inline,com/maoqifan/collections/HashMapTest.entrySetIterator
+inline,com/maoqifan/collections/HashMapTest.keySetForEach
+inline,com/maoqifan/collections/HashMapTest.keySetIterator
+inline,com/maoqifan/collections/HashMapTest.mapForEach
+inline,com/maoqifan/collections/HashMapTest.streamMultiThread
+inline,com/maoqifan/collections/HashMapTest.streamSingleThread
